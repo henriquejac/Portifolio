@@ -1,6 +1,6 @@
 import React from 'react'
 import './projects.css'
-import IMG1 from '../../assets/C_sharp_project.png'
+import IMG1 from '../../assets/portifolio_project.jpeg'
 import IMG2 from '../../assets/C_sharp_project.png'
 import IMG3 from '../../assets/PWEB_project.png'
 import IMG4 from '../../assets/animazone_project.png'
